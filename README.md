@@ -36,3 +36,8 @@ You need a local web server with PHP support. You can use:
 ---
 
 You should now see your PHP file running in the browser.
+
+
+
+
+I accidentally made two readme's lol. Sorry
